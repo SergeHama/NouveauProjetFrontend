@@ -27,7 +27,7 @@ export class VoyageComponent  implements  OnInit{
   protected  listVoyage : Voyage[]= [] ;
 
 
-  protected  voyage  = {libelleVoyage : "" , dateVoyage : ""};
+  protected  voyage   = {libelleVoyage : "" , dateVoyage : ""}  ; 
 
   currentPage: number = 0 ;
   protected  formVoyage = new FormGroup({
