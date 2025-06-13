@@ -30,7 +30,7 @@ export interface Reservation_1{
 
 
 export interface  TypeBillet{
-  idTypeBillet : number |null ,
+  idTypeBillet : number  ,
   libelleTypeBillet : string ,
   prixTypeBillet:  number ,
 

@@ -22,6 +22,8 @@ export class ClientComponent implements  OnInit{
   currentPage:  number = 0 ;
   clients : Client[] = [];
 
+  
+
 
 
 

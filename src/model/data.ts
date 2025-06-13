@@ -1,7 +1,7 @@
 import {Voyage} from "./interfaces";
 
 export var VOYAGES   :   any[] =   [
-  { idVoyage: 1, libelleVoyage: "Santiago", dateVoyage: "2024-06-02" },
+  { idVoyage: 1, libelleVoyage: "Ndjamena", dateVoyage: "2022-06-02" },
   { idVoyage: 2, libelleVoyage: "Addis Ababa", dateVoyage: "2024-09-19" },
   { idVoyage: 3, libelleVoyage: "Melbourne", dateVoyage: "2024-05-26" },
   { idVoyage: 4, libelleVoyage: "Tokyo", dateVoyage: "2024-11-19" },
